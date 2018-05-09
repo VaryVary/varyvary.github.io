@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Open positions in Machine Learning and Software Variability "
+date:   2018-05-09 011:54:29 +0200
+categories: jobs news
+---
+
+Are you interested in software, data science, and artificial intelligence? Then you're certainly the one!
+
+We are looking for highly motivated engineers, PhD students, and post-docs in **machine learning and software**.
+There is one position for an engineer (24 months), one position for a PhD student (36 months), and one position for a post-doc (at least 18 months).
+The research is funded by the Agence Nationale de la Recherche (ANR) in the context of the VaryVary project (ANR JCJC). Screening of applications starts immediately.
+
+**Keywords**: Machine Learning, Software Engineering, Variability, Software Automation, Configurable Systems, Software Product Lines
+
+**Main Contacts**: Mathieu Acher (mathieu.acher@irisa.fr) Jean-Marc Jézéquel (jean-marc.jezequel@irisa.fr) University of Rennes 1, IRISA/Inria
+
+
+# Objectives
+Most modern software systems (operating systems like Linux, Web browsers like Firefox or
+Chrome, video encoders like x264 or ffmpeg, etc.) are subject to variation or come in many **variants**. Hundreds of configuration options, features, or plugins can be combined, each potentially with distinct functionality and effects on execution time, memory footprint, etc. Among **configurations**, some of them are chosen and do not compile, crash at runtime, do not pass a test suite, or do not reach a certain performance quality (e.g., energy consumption, security).
+In this project, we follow a thought-provoking and unexplored direction: We consider
+that the variability boundary of a software system can be specialized and should vary when
+needs be. The goal of this project is to provide theories, methods and techniques to make
+vary **variability**.
+Specifically, we consider **machine learning** and software engineering techniques for
+narrowing the space of possible configurations to a good approximation of those satisfying
+the needs of users. Based on an oracle (e.g., a runtime test) that tells us whether a given configuration meets the requirements (e.g. speed or memory footprint), we leverage machine learning to retrofit the acquired constraints into a variability model that can be used to automatically specialize the configurable system. Based on a relative small number of configuration samples, we expect to reach high accuracy for many different kinds of oracles and subject systems.
+
+# Expected results
+
+Our preliminary experiments suggest that varying variability can be practically useful and
+effective. However, much more work is needed to investigate sampling, testing, and learning
+techniques within a variety of cases and application scenarios.
+We plan to further collect large experimental data and apply our techniques on popular,
+open-source, configurable software (like Linux, Firefox, ffmpeg, VLC, Apache or JHipster)
+and generators for media content (like videos, models for 3D printing, or [technical papers
+written in LaTeX](https://github.com/FAMILIAR-project/varylatex).
+
+You can have a look at [publications in open access](/publications/)
+
+# Skills
+We are looking for highly motivated people in machine learning and software.
+We are studying real-world, popular, open-source, configurable software projects like Linux, Firefox, ffmpeg, VLC, Apache or JHipster -- and we hope to have concrete impacts on them!
+
+The candidate should have a strong interest and the skills for performing large-scale experiments. It means the candidate should master techniques and tools for
+ * producing/gathering experimental data (based on the testing/executions of existing software systems);
+ * analysing data with statistics/visualisations;
+ * applying advanced machine learning techniques (classification, regression, active learning, etc.) and evaluating them with tools like scikit-learn or R.    
+
+**If you like software and data science, you're certainly the one!**
+The candidates will work with a software engineer (fully devoted to the project), two PhD students (fully devoted to the project), some interns, and 8 professors.  
+
+# Working Environment
+The candidates will work at Inria/IRISA in the [DiverSE team](https://diverse.irisa.fr) (workplace: Université Rennes 1, Campus de Beaulieu, 35000 Rennes, France).
+DiverSE's research is in the area of software engineering, focusing on the management of diversity in the construction of software intensive systems.
+The team is actively involved in European, French and industrial projects and is composed of 8 faculty members, 18 PhD students, 5 postdocs and 4 engineers.
+
+# How to apply
+Please send your application (PDF) as soon as possible. Screening of applications starts immediately and continues until the position is filled. Send cover letter including names of at least two referees, CV, PDFs of PhD thesis (or draft) if any, and possibly up to three most relevant publications (if any) to Mathieu Acher: mathieu.acher@irisa.fr or Jean-Marc Jézéquel: jean-marc.jezequel@irisa.fr

@@ -5,15 +5,15 @@ date:   2018-05-09 011:54:29 +0200
 categories: jobs news
 ---
 
-Are you interested in software, data science, and artificial intelligence? Then you're certainly the one!
+Are you interested in software, data science, and/or artificial intelligence? Then you're certainly the one!
 
 We are looking for highly motivated engineers, PhD students, and post-docs in **machine learning and software**.
-There is one position for an engineer (24 months), one position for a PhD student (36 months), and one position for a post-doc (at least 18 months).
-The research is funded by the Agence Nationale de la Recherche (ANR) in the context of the VaryVary project (ANR JCJC). Screening of applications starts immediately.
+There is one position for an engineer (at least 24 months), one position for a PhD student (36 months), and one position for a post-doc (at least 18 months).
+The research is funded by the Agence Nationale de la Recherche (ANR) in the context of the VaryVary project (ANR JCJC). Screening of applications starts immediately (job offer originally posted [here](https://docs.google.com/document/d/1Vr8HByYefWDRDdVeMtToXtpauFwcxxQeXLZtsX7T1UI/edit?usp=sharing)).
 
-**Keywords**: Machine Learning, Software Engineering, Variability, Software Automation, Configurable Systems, Software Product Lines
+**Keywords**: Machine Learning, Software Engineering, Variability, Software Automation, Configurable Systems, Software Product Lines, Artificial Intelligence, Data Science
 
-**Main Contacts**: Mathieu Acher (mathieu.acher@irisa.fr) Jean-Marc Jézéquel (jean-marc.jezequel@irisa.fr) University of Rennes 1, IRISA/Inria
+**Main Contacts**: [Mathieu Acher](https://www.mathieuacher.com) (mathieu.acher@irisa.fr) [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/) (jean-marc.jezequel@irisa.fr) University of Rennes 1, IRISA/Inria
 
 
 # Objectives
@@ -57,4 +57,4 @@ DiverSE's research is in the area of software engineering, focusing on the manag
 The team is actively involved in European, French and industrial projects and is composed of 8 faculty members, 18 PhD students, 5 postdocs and 4 engineers.
 
 # How to apply
-Please send your application (PDF) as soon as possible. Screening of applications starts immediately and continues until the position is filled. Send cover letter including names of at least two referees, CV, PDFs of PhD thesis (or draft) if any, and possibly up to three most relevant publications (if any) to Mathieu Acher: mathieu.acher@irisa.fr or Jean-Marc Jézéquel: jean-marc.jezequel@irisa.fr
+Please send your application (PDF) as soon as possible. Screening of applications starts immediately and continues until the position is filled. Send cover letter including names of at least two referees, CV, PDFs of PhD thesis (or draft) if any, and possibly up to three most relevant publications (if any) to [Mathieu Acher](https://www.mathieuacher.com): mathieu.acher@irisa.fr or [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/): jean-marc.jezequel@irisa.fr

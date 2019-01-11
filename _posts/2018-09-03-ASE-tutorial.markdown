@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutorial at ASE 2018 Re-engineering Software Variability into Software Product Lines"
 date:   2018-09-03 011:54:29 +0200
-categories: teaching dissemination 
+categories: dissemination 
 ---
 
 Mathieu Acher gave a tutorial (~20 participants) at [Automated Software Engineering conference (ASE 2018)](http://www.ase2018.com/?p=tutorials#spl), with Tewfik Ziadi (Sorbonne Université, LIP6)

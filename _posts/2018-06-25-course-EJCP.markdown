@@ -2,7 +2,7 @@
 layout: post
 title:  "Course at EJCP about Software Variability and Artificial Intelligence"
 date:   2018-06-25 011:54:29 +0200
-categories: teaching dissemination 
+categories: dissemination 
 ---
 
 Mathieu Acher gave a course at [EJCP](https://ejcp2018.sciencesconf.org/resource/page/id/5) (summer school for PhD students in computer science) about "Software Variability and Artificial Intelligence"

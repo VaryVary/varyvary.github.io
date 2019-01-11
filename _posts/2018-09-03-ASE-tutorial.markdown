@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Tutorial at ASE 2018 Re-engineering Software Variability into Software Product Lines"

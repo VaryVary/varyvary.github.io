@@ -5,11 +5,13 @@ date:   2019-03-12 011:54:29 +0200
 categories: dissemination 
 ---
 
-At the yearly [FOSD meeting](https://digital-bauhaus.github.io/website-FOSD-2019/) (a true workshop about variability, software product lines and configurable systems), Hugo Martin will pgive a talk entitled "Machine Learning for Performance Specialization of Configurable Systems". 
+At the yearly [FOSD meeting](https://digital-bauhaus.github.io/website-FOSD-2019/) (a true workshop about variability, software product lines and configurable systems), Hugo Martin will give a talk entitled "Machine Learning for Performance Specialization of Configurable Systems". 
 It's a substantial improvement/extension of ideas/experiments presented in this [technical report](https://hal.inria.fr/hal-01467299). 
 
 Juliana Alves Pereira will talk about "Machine Learning for Exploring Software Configuration Spaces: A Systematic Literature Review". 
 It's an ongoing effort in which we have spent time to understand and classify the numerous recent works in the field. 
+
+Hugo (PhD student) and Juliana (post-doc) are two key members of VaryVary: stay tuned for their results!  
 
 
 

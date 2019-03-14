@@ -6,9 +6,9 @@ categories: dissemination learning solving
 ---
 
 [VaMoS 2019](https://vamos2019.github.io/) is one of the best international workshop about software engineering: great papers, talks, nice interactions, etc. 
-And variability everywhere, the core topic! I am a little bit biased but I like VaMoS very much. It is already the 13th edition of the International Workshop on Variability Modelling of Software-Intensive Systems. It will be working conference in the future, a nice complement to [SPLC](https://splc2019.net), the major venue when you're interested in software product lines, configurable systems, and variability. 
+And variability everywhere, the core topic! I am a little bit biased because I like VaMoS very much. It is already the 13th edition of the International Workshop on Variability Modelling of Software-Intensive Systems. It will be working conference in the future, a nice complement to [SPLC](https://splc2019.net), the major venue when you're interested in software product lines, configurable systems, and variability. 
 
-Last year, Mathieu has presented [VaryLaTeX](https://hal.inria.fr/hal-01659161) a learning approach to generate papers that are not desk-reject, typically when you want to meet pages' limits. This year, Maxime Cordy will present "Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction" [preprint available](https://hal.inria.fr/hal-01990767). 
+Last year, I've presented [VaryLaTeX](https://hal.inria.fr/hal-01659161) a learning approach to generate papers that are not desk-reject, typically when you want to meet pages' limits. This year, Maxime Cordy will present "Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction" [preprint available](https://hal.inria.fr/hal-01990767). 
 
 The goal of this paper is to prevent the customization of ill-formed 3D models. We combine automated techniques with learning to predict defects, and we did it on [Thingiverse](https://www.thingiverse.com/) a popular place for makers. The abstract: 
 
@@ -19,5 +19,10 @@ The goal of this paper is to prevent the customization of ill-formed 3D models. 
 > In this paper, we report on preliminary experiments showing the capability of state-of-the-art classification algorithms to assist the configuration process. 
 > While machine learning holds its promises when it comes to evaluation scores, an in-depth analysis reveals the opportunity to combine the classifiers with constraint solvers.
 
+Don't hesitate to contact me if you're interested in this subject. 
+
+Best, 
+
+Mathieu Acher
 
 

@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+ * Quentin Plazar, Mathieu Acher, Gilles Perrouin, Xavier Devroey, and Maxime Cordy. Uniform Sampling of SAT Solutions for Configurable Systems: Are We There Yet? (2019). In ICST 2019 - 12th International Conference on Software Testing, Verification, and Validation
+ * Benoit Amand, Maxime Cordy, Patrick Heymans, Mathieu Acher, Paul Temple, and Jean-Marc Jézéquel. Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction (2019). In VaMoS 2019 - 13th International Workshop on Variability Modelling of Software-Intensive Systems
+ * Gilles Perrouin, Mathieu Acher, Maxime Cordy, and Xavier Devroey. Proceedings of the 1st International Workshop on Machine Learning and Software Engineering in Symbiosis, MASES@ASE 2018, Montpellier, France, September 3, 2018 [editor of the proceedings] (2018). published by ACM
  * Mathieu Acher, Paul Temple, Jean-Marc Jézéquel, José Angel Galindo Duarte, Jabier Martinez, and Tewfik Ziadi. VaryLaTeX: Learning Paper Variants That Meet Constraints (2018). In 12th International Workshop on Variability Modelling of Software-intensive Systems [VaryLaTeX](https://hal.inria.fr/hal-01659161)
  * Axel Halin, Alexandre Nuttinck, Mathieu Acher, Xavier Devroey, Gilles Perrouin, Benoit Baudry. Test them all, is it worth it? Assessing configuration sampling on the JHipster Web development stack
  (2018) [arxiv](https://arxiv.org/abs/1710.07980)

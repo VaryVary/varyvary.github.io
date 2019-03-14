@@ -2,16 +2,16 @@
 layout: post
 title:  "3D Printing, Machine Learning, and Variability at VaMoS"
 date:   2019-03-12 011:54:29 +0200
-categories: dissemination 
+categories: dissemination learning solving 
 ---
 
 [VaMoS 2019](https://vamos2019.github.io/) is one of the best international workshop about software engineering: great papers, talks, nice interactions, etc. 
-And variability everywhere, the core topic! I am a little bit biased but I like VaMoS very much. 
-It will be working conference in the future, a nice complement to [SPLC](https://splc2019.net), the major venue when you're interested in software product lines, configurable systems, and variability. 
+And variability everywhere, the core topic! I am a little bit biased but I like VaMoS very much. It is already the 13th edition of the International Workshop on Variability Modelling of Software-Intensive Systems. It will be working conference in the future, a nice complement to [SPLC](https://splc2019.net), the major venue when you're interested in software product lines, configurable systems, and variability. 
 
-Last year, Mathieu has presented [VaryLaTeX](https://hal.inria.fr/hal-01659161) a learning approach to generate papers that are not desk-reject, typically when you want to meet pages' limits. This year, Maxime Cordy has presented "Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction" [preprint available](https://hal.inria.fr/hal-01990767). 
+Last year, Mathieu has presented [VaryLaTeX](https://hal.inria.fr/hal-01659161) a learning approach to generate papers that are not desk-reject, typically when you want to meet pages' limits. This year, Maxime Cordy will present "Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction" [preprint available](https://hal.inria.fr/hal-01990767). 
 
 The goal of this paper is to prevent the customization of ill-formed 3D models. We combine automated techniques with learning to predict defects, and we did it on Thingiverse a popular place for makers. The abstract: 
+
 ```
 Configurators rely on logical constraints over parameters to aid users and determine the validity of a configuration. However, for some domains, capturing such configuration knowledge is hard, if not infeasible. This is the case in the 3D printing industry, where parametric 3D object models contain the list of parameters and their value domains, but no explicit constraints. This calls for a complementary approach that learns what configurations are valid based on previous experiences. In this paper, we report on preliminary experiments showing the capability of state-of-the-art classification algorithms to assist the configuration process. While machine learning holds its promises when it comes to evaluation scores, an in-depth analysis reveals the opportunity to combine the classifiers with constraint solvers.
 ```

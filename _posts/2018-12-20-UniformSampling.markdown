@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uniform Sampling for Configurable Systems"
-date:   2019-03-12 011:54:29 +0200
+date:   2018-12-20 011:54:29 +0200
 categories: dissemination solving sampling  
 ---
 

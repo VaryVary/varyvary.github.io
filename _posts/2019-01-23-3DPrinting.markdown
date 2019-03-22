@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D Printing, Machine Learning, and Variability at VaMoS"
-date:   2019-03-12 011:54:29 +0200
+date:   2019-01-12 011:54:29 +0200
 categories: dissemination learning solving 
 ---
 

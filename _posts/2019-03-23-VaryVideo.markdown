@@ -14,6 +14,8 @@ Anyway, it's available [online](https://link.springer.com/article/10.1007/s11219
 
 We are pursuing the work with the video generator, either for improving its [quality](https://hal.inria.fr/hal-01659137) or for [exploiting video variants](https://hal.inria.fr/hal-01323446).
 
+![Extraction process](/assets/videos.png)
+
 Abstract below:
 > In an industrial project, we addressed the challenge of developing a software-based video generator such that consumers and providers of video processing algorithms can benchmark them on a wide range of video variants. 
 > This article aims to report on our positive experience in modeling, controlling, and implementing software variability in the video domain. 

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Multimorphic Testing at Deep Test"
+date:   2019-05-25 011:54:29 +0200
+categories: publication workshop testing
+---
+
+Paul Temple and Jean-Marc Jézéquel were at [DeepTest](https://deeptestconf.github.io/), perhaps the most attended workshop at ICSE. 
+They have presented "Applying Multimorphic Testing to Deep Learning Systems". 
+It's an ongoing work and the workshop was informal. 
+
+Multimorphic testing (MMT) aims to assess the effectiveness of a test suite for revealing performance variations of a system. We've promising empirical results in different contexts/domains see [ICSE'18 poster](https://hal.inria.fr/hal-01730163v1) and PhD thesis of [Paul](http://www.theses.fr/2018REN1S087). 
+The question is now: does MMT work for deep neural network-based systems?
+
+
+
+
+

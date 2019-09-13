@@ -5,10 +5,10 @@ date:   2019-09-08 011:54:29 +0200
 categories: dissemination 
 ---
 
-The VaryVary team has been very busy at SPLC, the major venue on software product lines and variability, with:
+The VaryVary team has been very busy at [SPLC](https://splc2019.net/), the major venue on software product lines and variability, with:
  * a tutorial about "Machine learning and configurable systems: A gentle introduction" material is available here https://github.com/VaryVary/ML-configurable-SPLCTutorial The tutorial was well attended (aroun 20 people) and there were interesting interactions.
- * 3 workshops: SPLTea, REVE, and MODEVAR
- * a paper "Towards quality assurance of software product lines with adversarial configurations" in the main research track
+ * 3 workshops: [SPLTea](http://spltea.irisa.fr/), [REVE](http://reveworkshop.github.io), and [MODEVAR](https://modevar.github.io/program/) on different topics (teaching, reverse engineering, and modeling) and again a good audience for both 
+ * a paper "Towards quality assurance of software product lines with adversarial configurations" in the main research track 
  * Juliana was chair of the student volunteers and Hugo was also student volunteer 
  * duties with SPLC steering committee
 

@@ -5,10 +5,8 @@ date:   2019-10-30 011:54:29 +0200
 categories: dissemination 
 ---
 
-Mathieu Acher gave a 35' (talk)[https://sched.co/TLKI] at (Embedded Linux Conference Europe 2019 (co-located with Open Source Summit 2019))[https://events.linuxfoundation.org/events/open-source-summit-europe-2019/] in Lyon about "Learning the Linux Kernel Configuration Space: Results and Challenges"
-
+Mathieu Acher gave a 35' [talk](https://sched.co/TLKI) at [Embedded Linux Conference Europe 2019 (co-located with Open Source Summit 2019)](https://events.linuxfoundation.org/events/open-source-summit-europe-2019/) in Lyon about "Learning the Linux Kernel Configuration Space: Results and Challenges".
 Abstract below:
-
 
 > Given a configuration, can humans know in advance the size, the compilation time, or the boot time of a Linux kernel?
 > Owing to the huge complexity of Linux (there are more than 15000 options with hard constraints and subtle interactions), machines should rather assist contributors and integrators in mastering the configuration space of the kernel.

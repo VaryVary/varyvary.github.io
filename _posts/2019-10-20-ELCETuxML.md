@@ -13,5 +13,5 @@ Abstract below:
 > In this talk, Mathieu Acher will introduce TuxML an OSS tool based on Docker/Python to massively gather data about thousands of kernel configurations. Mathieu will describe how 200K+ configurations have been automatically built and how machine learning can exploit this information to predict properties of unseen Linux configurations, with different use cases (identification of influential/buggy options, finding of small kernels, etc.)
 > The vision is that a continuous understanding of the configuration space is undoubtedly beneficial for the Linux community, yet several technical challenges remain in terms of infrastructure and automation.
 
-Slides/papers can be found online. 
+[Slides/papers can be found online](https://elinux.org/ELC_Europe_2019_Presentations). 
 Youtube video will follow soon!

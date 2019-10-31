@@ -5,7 +5,7 @@ date:   2019-10-30 011:54:29 +0200
 categories: dissemination 
 ---
 
-Mathieu Acher gave a 35' (https://sched.co/TLKI)[talk] at Embedded Linux Conference Europe 2019 (co-located with Open Source Summit 2019) in Lyon about "Learning the Linux Kernel Configuration Space: Results and Challenges"
+Mathieu Acher gave a 35' (talk)[https://sched.co/TLKI] at (Embedded Linux Conference Europe 2019 (co-located with Open Source Summit 2019))[https://events.linuxfoundation.org/events/open-source-summit-europe-2019/] in Lyon about "Learning the Linux Kernel Configuration Space: Results and Challenges"
 
 Abstract below:
 
